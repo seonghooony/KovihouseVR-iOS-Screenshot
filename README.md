@@ -33,8 +33,12 @@ https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/bfb4b5
 
 
 여기어때 벤치마크
-https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/6897a260-28ac-47c3-992a-81a53c2d5e80
-https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/2a31382e-bba7-4b73-a220-69ed77c38d7f
+https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/05250f9a-b6c4-46ce-bad2-62e90bcb184b
+https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/1ae12372-7b63-456b-86d3-985214ec2b83
+
+
+
+
 
 
 
