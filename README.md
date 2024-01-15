@@ -46,6 +46,9 @@ https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/1ae123
 
 
 
+스토리 개편
+
+![13](https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/6ef18550-755c-4977-96e5-82d0a73b01a0)
 
 
 
