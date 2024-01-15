@@ -26,6 +26,10 @@
 ![11](https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/253fdfe2-ca95-416d-b837-7a92e613f3fd)
 
 
+메인 개편
+![12](https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/11691559-7776-4bde-9824-e124e76be79e)
+
+
 트리플 벤치마크
 
 https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/c7600e89-b97b-46ae-90a7-48a89fc94f90
