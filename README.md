@@ -24,21 +24,9 @@
 - VR공방 UI 개선
 - 기타 안정화
 
-[Ver 2.9.1]
-- Main Home Screen Renewal
-- VR Archive UI update
-- Other stabilization
-
-
 [Ver 2.8.11]
 - 인테리어 AI 테리언 기능 추가
 - 기타 안정화
-- 
-
-[Ver 2.8.10]
-- Add function to collect the consent to use of Location Information Services
-- Other stabilization
-
 
 [Ver 2.8.10]
 - 위치정보 서비스 이용동의 수집 기능 추가
