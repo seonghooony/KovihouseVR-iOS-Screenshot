@@ -212,6 +212,8 @@ Ver. 2.7.7
 - 우리동네 인테리어 업체찾기 지도 상 전문업체 클릭 시 차단 업체일 경우 블록 처리
 
 
+NIPA 정부과제 사업
+- 부동산 매물 탐색 시스템 구축
 
 
 차단하기
@@ -285,7 +287,9 @@ https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/1ae123
 ![13](https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/6ef18550-755c-4977-96e5-82d0a73b01a0)
 
 
+부동산 시스템
 
+![부동산 정리](https://github.com/seonghooony/KovihouseVR-iOS-Screenshot/assets/91402556/082c5305-f441-4519-9e7f-14f598183b0a)
 
 
 
